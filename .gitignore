@@ -1,0 +1,14 @@
+.idea/
+.git/
+.venv/
+excel/
+xlsx/
+xlsx_archive/
+chromedriver
+locations.json
+
+# todo remove these
+crawler_data.pickle
+db_data.pickle
+article-page/page-cookies.json
+article-page/page-localStorage.pickle
