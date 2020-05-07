@@ -1,0 +1,6 @@
+Django
+selenium
+helium
+psycopg2
+openpyxl
+jdatetime
