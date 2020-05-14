@@ -1,0 +1,57 @@
+{
+  "id": {
+    "column_letter": "A",
+    "header_text": "ردیف",
+    "column_width": 5.14
+  },
+  "title": {
+    "column_letter": "B",
+    "header_text": "عنوان",
+    "column_width": 21.85
+  },
+  "phone": {
+    "column_letter": "C",
+    "header_text": "شماره",
+    "column_width": 13.57
+  },
+  "category": {
+    "column_letter": "D",
+    "header_text": "دسته بندی",
+    "column_width": 10.43
+  },
+  "area_size": {
+    "column_letter": "E",
+    "header_text": "متراژ",
+    "column_width": 9.85
+  },
+  "price": {
+    "column_letter": "F",
+    "header_text": "قیمت کل",
+    "column_width": 17.71
+  },
+  "location": {
+    "column_letter": "G",
+    "header_text": "محل",
+    "column_width": 10.71
+  },
+  "publisher_type": {
+    "column_letter": "H",
+    "header_text": "آگهی دهنده",
+    "column_width": 11.71
+  },
+  "description": {
+    "column_letter": "I",
+    "header_text": "توضیحات",
+    "column_width": 49.0
+  },
+  "date_published": {
+    "column_letter": "J",
+    "header_text": "تاریخ ثبت آگهی",
+    "column_width": 12.14
+  },
+  "time_published": {
+    "column_letter": "K",
+    "header_text": "ساعت ثبت آگهی",
+    "column_width": 12.57
+  }
+}
