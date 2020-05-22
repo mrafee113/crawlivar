@@ -1,0 +1,20 @@
+{
+  "تلفن": {
+    "db_column": "phone"
+  },
+  "دسته‌بندی": {
+    "db_column": "category"
+  },
+  "محل": {
+    "db_column": "location"
+  },
+  "متراژ": {
+    "db_column": "area_size"
+  },
+  "قیمت کل": {
+    "db_column": "price"
+  },
+  "آگهی‌دهنده": {
+    "db_column": "publisher_type"
+  }
+}
