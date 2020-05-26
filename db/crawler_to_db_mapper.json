@@ -1,0 +1,25 @@
+{
+  "Category": {
+    "name": "category",
+    "name_english": "category_en"
+  },
+  "Location": {
+    "name": "location",
+    "name_english": "location_en",
+    "href": "location_href"
+  },
+  "Person": {
+    "number": "phone",
+    "publisher_type": "publisher_type"
+  },
+  "Article": {
+    "title": "title",
+    "date_published": "date_published",
+    "time_published": "time_published",
+    "area_size": "area_size",
+    "price": "price",
+    "description": "description",
+    "uri": "uri",
+    "datetime_crawled": "datetime_crawled"
+  }
+}
